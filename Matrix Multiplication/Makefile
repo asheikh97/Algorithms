@@ -1,8 +1,8 @@
 ######################################################################
 #
-# Project 3: Chain matrix multiplication
+# Chain matrix multiplication
 #
-# Author: A. G. Werschulz
+# Author: Abadali Sheikh
 # Date:   8 Mar 2018
 #
 ######################################################################

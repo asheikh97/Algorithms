@@ -1,6 +1,6 @@
 # Algorithms
 
-###### My implementation of various algorithms discussed in the text *Aglorithms by S. Dasgupta*.
+###### My implementation of various algorithms discussed in the text *Aglorithms* by S. Dasgupta.
 
 ## What you can expect 🤔
 
