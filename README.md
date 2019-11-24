@@ -4,7 +4,7 @@
 
 ## What you can expect 🤔
 
-All code for the follwoing algorithms has been written in C++
+###### All code for the following algorithms has been written in C++.
 ```
 > Matrix Multiplication 
   - Using a dynamic algorithm approach 
