@@ -1,5 +1,7 @@
 # Primality Testing Algorithms 
 
+In this program you will find an implementation of a deterministic algorithm as well as a probabilistic algorithm. 
+These appraoches are as discussed in the text *Algorithms* by Dasgupta.  
 
 ## Getting Started
 
