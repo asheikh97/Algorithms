@@ -1,5 +1,5 @@
 
-# Polynomial Multiplication Algroithms
+# Polynomial Multiplication Algorithms
 
 Polynomial Multiplication using a naive method and using Karatsuba's Algorithm. 
 
