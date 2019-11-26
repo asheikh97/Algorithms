@@ -1,1 +1,0 @@
-A dynamic programming algorithm to determine the minimal number of multiplications needed to compute the product of matrices, in O(n^3)
