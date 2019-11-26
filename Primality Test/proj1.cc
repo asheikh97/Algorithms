@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     }
     
     // comment this out if debugging
-    randomize();
+    //randomize();
     
     // print "false" and "true" for bool values
     cout << boolalpha;

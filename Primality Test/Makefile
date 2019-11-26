@@ -1,15 +1,15 @@
 #
 # CISC 4080, Project 1: Testing For Primes
 #
-# Author: A. G. Werschulz
+# Author: Abadali Sheikh
 # Date:   1 Feb 2018
 
-CXXFLAGS = -std=c++11 -Wall
+CXXFLAGS = -std=c++17 -Wall
 
-main: main.o random.o 
-	$(CXX) $(CXXFLAGS) -o main main.o random.o
+proj1: proj1.o random.o 
+	$(CXX) $(CXXFLAGS) -o proj1 proj1.o random.o
 
 random.o: random.cc random.h
 
 clean:
-	rm -f main *.o *~ \#*
+	rm -f proj1 *.o *~ \#*
