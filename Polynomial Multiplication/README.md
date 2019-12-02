@@ -16,7 +16,7 @@ What you'll need to get this program running
 * C++ Compiler
 ```
 
-### Run It! 
+### Run it! 
 
 Series of examples on running this program 
 
