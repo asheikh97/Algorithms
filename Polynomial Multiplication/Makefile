@@ -7,7 +7,7 @@
 # #
 # # This is the Makefile.
 # #
-# # Author: A. G. Werschulz
+# # Author: Abadali Sheikh
 # # Date:   8 February 2018
 # #
 # ######################################################################
