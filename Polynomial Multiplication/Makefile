@@ -1,13 +1,7 @@
 # ######################################################################
-# #
-# # CISC 4080 (Computer Algorithms)
-# # Spring, 2018
-# #
 # # Project 2: Comparing Polynomial Multiplication Algorithms
 # #
-# # This is the Makefile.
-# #
-# # Author: A. G. Werschulz
+# # Author: Abadali Sheikh
 # # Date:   8 February 2018
 # #
 # ######################################################################
