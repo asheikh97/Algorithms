@@ -21,21 +21,20 @@ What you'll need to get this program running
 Series of examples on running this program 
 
 ```
-####### First compile & create an executable by running
-    > make 
+// Create an executable
+> make 
 
-// You will now have an exec file named 'main'
-Usage:
-    ./make user-input
+Usage: ./main user-input
+
 // User input: Enter a value for the nth degree polynomials you wish to multiply 
 
-    > ./make 10
-        Results match.
+> ./main 10
+    Results match.
     
-        Timing: 
-        Naive algorithm: 7e-06 seconds
-        Karatsuba algorithm: 0.000435 seconds
-        Naive algorithm wins!
+    Timing: 
+    Naive algorithm: 7e-06 seconds
+    Karatsuba algorithm: 0.000435 seconds
+    Naive algorithm wins!
     
 ```
 
